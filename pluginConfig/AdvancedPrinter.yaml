@@ -1,0 +1,8 @@
+name: AdvancedPrinter
+verbose: Events with fancy colors
+about: Print all events with a color scheme
+class: plugins.advancedPrinter.AdvancedPrinter
+interface: platform.plugins.IPrinter
+autorun: "False"
+default: "False"
+singleton: "True"

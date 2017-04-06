@@ -1,0 +1,6 @@
+name: myAutorun
+about: Just a simple autorun
+class: plugins.mypluginautorun.myAutorun
+interface: platform.plugins.IAutorun
+autorun: "True"
+singleton: "True"

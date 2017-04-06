@@ -11,3 +11,5 @@ plugins:
   - plugins.monitoring.Monitoring
   - plugins.exportYamlPrinter.ExportYamlPrinter
   - plugins.importYamlCreator.ImportYamlCreator
+  - plugins.advancedPrinter.AdvancedPrinter
+  - plugins.mypluginautorun.myAutorun
